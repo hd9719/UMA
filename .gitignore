@@ -1,0 +1,8 @@
+# Tyre Inventory Management System
+
+node_modules/
+build/
+.DS_Store
+.env
+*.log
+database.sqlite
